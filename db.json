@@ -3,13 +3,14 @@
     {
       "id": 1,
       "name": "Oh So Flattening",
-      "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
+      "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.Can get you super high",
       "image_url": "https://i.ibb.co/wQ4G0w1/flatiron-brew.png",
       "reviews": [
         "It's flat! Just the way I like it!!",
         "Is this the real beer, is this just fantasy?",
         "I've always hated bubbles going up my nose, so this is absolutely delightful.",
-        "Flat straight out of the bottle! No more waiting for the fizziness to subside. Thank you FlattaBeer!! I love you!!!"
+        "Flat straight out of the bottle! No more waiting for the fizziness to subside. Thank you FlattaBeer!! I love you!!!",
+        "THIS IS NICE"
       ]
     },
     {
@@ -85,9 +86,7 @@
       "name": "Arcade Nation",
       "description": "Running the knife-edge between an India Pale Ale and a Stout, this particular style is one we truly love. Black IPAs are a great showcase for the skill of our brew team, balancing so many complex and twisting flavours in the same moment. The citrus, mango and pine from the hops – three of our all-time favourites – play off against the roasty dryness from the malt bill at each and every turn.",
       "image_url": "https://images.punkapi.com/v2/12.png",
-      "reviews": [
-        "Pew pew"
-      ]
+      "reviews": []
     },
     {
       "id": 10,
